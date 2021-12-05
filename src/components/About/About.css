@@ -1,0 +1,12 @@
+.about-header{
+    font-size: 32px;
+}
+.photo{
+    width: 200px;
+}
+
+@media screen and (max-width: 600px) {
+    .photo{
+        width: 100%;
+    }
+}

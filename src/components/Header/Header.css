@@ -1,0 +1,24 @@
+.header-list{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 6px;
+    width:100%;
+    height:100px;
+    background: #282c34;
+}
+
+.header-list a{
+    color:white;
+    text-decoration: none;
+}
+
+.header-list a:hover{
+   color:red;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
